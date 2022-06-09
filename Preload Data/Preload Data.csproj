@@ -1,0 +1,141 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFrameworks>net6.0-android;net6.0-ios;net6.0-maccatalyst</TargetFrameworks>
+		<TargetFrameworks Condition="$([MSBuild]::IsOSPlatform('windows'))">$(TargetFrameworks);net6.0-windows10.0.19041.0</TargetFrameworks>
+		<!-- Uncomment to also build the tizen app. You will need to install tizen by following this: https://github.com/Samsung/Tizen.NET -->
+		<!-- <TargetFrameworks>$(TargetFrameworks);net6.0-tizen</TargetFrameworks> -->
+		<OutputType>Exe</OutputType>
+		<RootNamespace>Preload_Data</RootNamespace>
+		<UseMaui>true</UseMaui>
+		<SingleProject>true</SingleProject>
+		<ImplicitUsings>enable</ImplicitUsings>
+
+		<!-- Display name -->
+		<ApplicationTitle>Preload Data</ApplicationTitle>
+
+		<!-- App Identifier -->
+		<ApplicationId>com.companyname.preload_data</ApplicationId>
+		<ApplicationIdGuid>AC2F52AF-63BB-4F5D-9F0C-D8D708C90600</ApplicationIdGuid>
+
+		<!-- Versions -->
+		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+		<ApplicationVersion>1</ApplicationVersion>
+
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'ios'">14.2</SupportedOSPlatformVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'maccatalyst'">14.0</SupportedOSPlatformVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'android'">21.0</SupportedOSPlatformVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'windows'">10.0.17763.0</SupportedOSPlatformVersion>
+		<TargetPlatformMinVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'windows'">10.0.17763.0</TargetPlatformMinVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'tizen'">6.5</SupportedOSPlatformVersion>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<!-- App Icon -->
+		<MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\AppIcon\appiconfg.svg" Color="#512BD4" />
+
+		<!-- Splash Screen -->
+		<MauiSplashScreen Include="Resources\Splash\splash.svg" Color="#512BD4" BaseSize="128,128" />
+
+		<!-- Images -->
+		<MauiImage Include="Resources\Images\*" />
+		<MauiImage Update="Resources\Images\dotnet_bot.svg" BaseSize="168,208" />
+
+		<!-- Custom Fonts -->
+		<MauiFont Include="Resources\Fonts\*" />
+
+		<!-- Raw Assets (also remove the "Resources\Raw" prefix) -->
+		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Remove="Resources\Raw\AS.json" />
+	  <None Remove="Resources\Raw\AT.json" />
+	  <None Remove="Resources\Raw\AU.json" />
+	  <None Remove="Resources\Raw\BA.json" />
+	  <None Remove="Resources\Raw\BE.json" />
+	  <None Remove="Resources\Raw\BK.json" />
+	  <None Remove="Resources\Raw\BR.json" />
+	  <None Remove="Resources\Raw\BSE.json" />
+	  <None Remove="Resources\Raw\BUD.json" />
+	  <None Remove="Resources\Raw\CC.json" />
+	  <None Remove="Resources\Raw\CM.json" />
+	  <None Remove="Resources\Raw\CN.json" />
+	  <None Remove="Resources\Raw\CO.json" />
+	  <None Remove="Resources\Raw\DU.json" />
+	  <None Remove="Resources\Raw\ExchangesList.json" />
+	  <None Remove="Resources\Raw\F.json" />
+	  <None Remove="Resources\Raw\FOREX.json" />
+	  <None Remove="Resources\Raw\HA.json" />
+	  <None Remove="Resources\Raw\HE.json" />
+	  <None Remove="Resources\Raw\HK.json" />
+	  <None Remove="Resources\Raw\HM.json" />
+	  <None Remove="Resources\Raw\IC.json" />
+	  <None Remove="Resources\Raw\IL.json" />
+	  <None Remove="Resources\Raw\IR.json" />
+	  <None Remove="Resources\Raw\IS.json" />
+	  <None Remove="Resources\Raw\JK.json" />
+	  <None Remove="Resources\Raw\JSE.json" />
+	  <None Remove="Resources\Raw\KAR.json" />
+	  <None Remove="Resources\Raw\KLSE.json" />
+	  <None Remove="Resources\Raw\KO.json" />
+	  <None Remove="Resources\Raw\KQ.json" />
+	  <None Remove="Resources\Raw\LIM.json" />
+	  <None Remove="Resources\Raw\LS.json" />
+	  <None Remove="Resources\Raw\LSE.json" />
+	  <None Remove="Resources\Raw\LU.json" />
+	  <None Remove="Resources\Raw\MC.json" />
+	  <None Remove="Resources\Raw\MI.json" />
+	  <None Remove="Resources\Raw\MU.json" />
+	  <None Remove="Resources\Raw\MX.json" />
+	  <None Remove="Resources\Raw\NEO.json" />
+	  <None Remove="Resources\Raw\NFN.json" />
+	  <None Remove="Resources\Raw\NSE.json" />
+	  <None Remove="Resources\Raw\OL.json" />
+	  <None Remove="Resources\Raw\PA.json" />
+	  <None Remove="Resources\Raw\PSE.json" />
+	  <None Remove="Resources\Raw\RG.json" />
+	  <None Remove="Resources\Raw\RO.json" />
+	  <None Remove="Resources\Raw\SA.json" />
+	  <None Remove="Resources\Raw\SG.json" />
+	  <None Remove="Resources\Raw\SHE.json" />
+	  <None Remove="Resources\Raw\SHG.json" />
+	  <None Remove="Resources\Raw\SN.json" />
+	  <None Remove="Resources\Raw\SR.json" />
+	  <None Remove="Resources\Raw\ST.json" />
+	  <None Remove="Resources\Raw\STU.json" />
+	  <None Remove="Resources\Raw\SW.json" />
+	  <None Remove="Resources\Raw\TA.json" />
+	  <None Remove="Resources\Raw\TL.json" />
+	  <None Remove="Resources\Raw\TO.json" />
+	  <None Remove="Resources\Raw\TW.json" />
+	  <None Remove="Resources\Raw\TWO.json" />
+	  <None Remove="Resources\Raw\US.json" />
+	  <None Remove="Resources\Raw\V.json" />
+	  <None Remove="Resources\Raw\VI.json" />
+	  <None Remove="Resources\Raw\VN.json" />
+	  <None Remove="Resources\Raw\VS.json" />
+	  <None Remove="Resources\Raw\VX.json" />
+	  <None Remove="Resources\Raw\WAR.json" />
+	  <None Remove="Resources\Raw\XETRA.json" />
+	  <None Remove="Resources\Raw\ZSE.json" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="CommunityToolkit.Maui" Version="1.0.0" />
+	  <PackageReference Include="CommunityToolkit.Mvvm" Version="8.0.0-preview4" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Compile Update="Views\ExchangesPage.xaml.cs">
+	    <DependentUpon>ExchangesPage.xaml</DependentUpon>
+	  </Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="Views\ExchangesPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	</ItemGroup>
+
+</Project>
