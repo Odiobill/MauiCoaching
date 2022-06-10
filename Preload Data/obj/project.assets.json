@@ -21544,11 +21544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MAUI\\Preload Data\\Preload Data\\Preload Data.csproj",
+      "projectUniqueName": "D:\\MAUI\\MauiCoaching\\Preload Data\\Preload Data.csproj",
       "projectName": "Preload Data",
-      "projectPath": "D:\\MAUI\\Preload Data\\Preload Data\\Preload Data.csproj",
+      "projectPath": "D:\\MAUI\\MauiCoaching\\Preload Data\\Preload Data.csproj",
       "packagesPath": "C:\\Users\\Davide Lucchesi\\.nuget\\packages\\",
-      "outputPath": "D:\\MAUI\\Preload Data\\Preload Data\\obj\\",
+      "outputPath": "D:\\MAUI\\MauiCoaching\\Preload Data\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

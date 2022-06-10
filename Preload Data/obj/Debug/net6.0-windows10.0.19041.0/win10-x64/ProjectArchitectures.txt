@@ -1,1 +1,1 @@
-D:\MAUI\Preload Data\Preload Data\Preload Data.csproj;x64
+D:\MAUI\MauiCoaching\Preload Data\Preload Data.csproj;x64

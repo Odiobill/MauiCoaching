@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>AC2F52AF-63BB-4F5D-9F0C-D8D708C90600</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\MAUI\Preload Data\Preload Data\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>D:\MAUI\MauiCoaching\Preload Data\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>F8B96BCAB4F9ADBACE4871780EAFD3C829A4BD2C8850B461D33250C01574044C</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>AC2F52AF-63BB-4F5D-9F0C-D8D708C90600_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>AC2F52AF-63BB-4F5D-9F0C-D8D708C90600_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,28 +26,28 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\MAUI\Preload Data\Preload Data\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="D:\MAUI\MauiCoaching\Preload Data\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-06-09T20:56:31.113</Modified>
+      <Modified>2022-06-10T20:16:42.028</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-06-09T20:56:30.490</Modified>
+      <Modified>2022-06-10T20:16:41.638</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Preload Data.runtimeconfig.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Preload Data.runtimeconfig.json">
       <PackagePath>Preload Data.runtimeconfig.json</PackagePath>
-      <Modified>2022-06-07T20:31:57.088</Modified>
+      <Modified>2022-06-10T20:16:41.405</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Preload Data.dll">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Preload Data.dll">
       <PackagePath>Preload Data.dll</PackagePath>
-      <Modified>2022-06-09T20:56:29.491</Modified>
+      <Modified>2022-06-10T20:16:39.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Preload Data.exe</PackagePath>
-      <Modified>2022-06-09T20:56:29.512</Modified>
+      <Modified>2022-06-10T20:16:39.988</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Davide Lucchesi\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1061,9 +1061,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-04-15T16:56:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Preload Data.deps.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Preload Data.deps.json">
       <PackagePath>Preload Data.deps.json</PackagePath>
-      <Modified>2022-06-09T20:56:30.944</Modified>
+      <Modified>2022-06-10T20:16:41.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.312\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1085,461 +1085,461 @@
       <PackagePath>Microsoft.Maui.Essentials.pri</PackagePath>
       <Modified>2022-05-15T00:30:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2022-06-07T18:19:34.851</Modified>
+      <Modified>2022-06-07T18:19:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\ExchangesList.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\ExchangesList.json">
       <PackagePath>ExchangesList.json</PackagePath>
-      <Modified>2022-06-08T20:43:58.960</Modified>
+      <Modified>2022-06-08T20:43:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\AS.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\AS.json">
       <PackagePath>Exchanges\AS.json</PackagePath>
-      <Modified>2022-06-08T20:39:04.158</Modified>
+      <Modified>2022-06-08T20:39:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\AT.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\AT.json">
       <PackagePath>Exchanges\AT.json</PackagePath>
-      <Modified>2022-06-08T20:39:13.600</Modified>
+      <Modified>2022-06-08T20:39:13.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\AU.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\AU.json">
       <PackagePath>Exchanges\AU.json</PackagePath>
-      <Modified>2022-06-08T20:39:12.222</Modified>
+      <Modified>2022-06-08T20:39:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\BA.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\BA.json">
       <PackagePath>Exchanges\BA.json</PackagePath>
-      <Modified>2022-06-08T20:39:15.043</Modified>
+      <Modified>2022-06-08T20:39:15.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\BE.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\BE.json">
       <PackagePath>Exchanges\BE.json</PackagePath>
-      <Modified>2022-06-08T20:39:01.896</Modified>
+      <Modified>2022-06-08T20:39:01.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\BK.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\BK.json">
       <PackagePath>Exchanges\BK.json</PackagePath>
-      <Modified>2022-06-08T20:39:13.132</Modified>
+      <Modified>2022-06-08T20:39:13.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\BR.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\BR.json">
       <PackagePath>Exchanges\BR.json</PackagePath>
-      <Modified>2022-06-08T20:39:03.878</Modified>
+      <Modified>2022-06-08T20:39:03.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\BSE.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\BSE.json">
       <PackagePath>Exchanges\BSE.json</PackagePath>
-      <Modified>2022-06-08T20:39:10.655</Modified>
+      <Modified>2022-06-08T20:39:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\BUD.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\BUD.json">
       <PackagePath>Exchanges\BUD.json</PackagePath>
-      <Modified>2022-06-08T20:39:09.270</Modified>
+      <Modified>2022-06-08T20:39:09.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\CC.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\CC.json">
       <PackagePath>Exchanges\CC.json</PackagePath>
-      <Modified>2022-06-08T20:39:17.702</Modified>
+      <Modified>2022-06-08T20:39:17.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\CM.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\CM.json">
       <PackagePath>Exchanges\CM.json</PackagePath>
-      <Modified>2022-06-08T20:39:14.088</Modified>
+      <Modified>2022-06-08T20:39:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\CN.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\CN.json">
       <PackagePath>Exchanges\CN.json</PackagePath>
-      <Modified>2022-06-08T20:39:18.052</Modified>
+      <Modified>2022-06-08T20:39:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\CO.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\CO.json">
       <PackagePath>Exchanges\CO.json</PackagePath>
-      <Modified>2022-06-08T20:39:05.431</Modified>
+      <Modified>2022-06-08T20:39:05.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\DU.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\DU.json">
       <PackagePath>Exchanges\DU.json</PackagePath>
-      <Modified>2022-06-08T20:38:59.743</Modified>
+      <Modified>2022-06-08T20:38:59.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\F.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\F.json">
       <PackagePath>Exchanges\F.json</PackagePath>
-      <Modified>2022-06-08T20:39:01.474</Modified>
+      <Modified>2022-06-08T20:39:01.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\HA.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\HA.json">
       <PackagePath>Exchanges\HA.json</PackagePath>
-      <Modified>2022-06-08T20:38:59.964</Modified>
+      <Modified>2022-06-08T20:38:59.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\HE.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\HE.json">
       <PackagePath>Exchanges\HE.json</PackagePath>
-      <Modified>2022-06-08T20:39:06.627</Modified>
+      <Modified>2022-06-08T20:39:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\HK.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\HK.json">
       <PackagePath>Exchanges\HK.json</PackagePath>
-      <Modified>2022-06-08T20:39:08.424</Modified>
+      <Modified>2022-06-08T20:39:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\HM.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\HM.json">
       <PackagePath>Exchanges\HM.json</PackagePath>
-      <Modified>2022-06-08T20:38:58.649</Modified>
+      <Modified>2022-06-08T20:38:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\IC.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\IC.json">
       <PackagePath>Exchanges\IC.json</PackagePath>
-      <Modified>2022-06-08T20:39:06.853</Modified>
+      <Modified>2022-06-08T20:39:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\IL.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\IL.json">
       <PackagePath>Exchanges\IL.json</PackagePath>
-      <Modified>2022-06-08T20:39:15.794</Modified>
+      <Modified>2022-06-08T20:39:15.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\IR.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\IR.json">
       <PackagePath>Exchanges\IR.json</PackagePath>
-      <Modified>2022-06-08T20:39:06.135</Modified>
+      <Modified>2022-06-08T20:39:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\IS.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\IS.json">
       <PackagePath>Exchanges\IS.json</PackagePath>
-      <Modified>2022-06-08T20:39:16.820</Modified>
+      <Modified>2022-06-08T20:39:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\JK.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\JK.json">
       <PackagePath>Exchanges\JK.json</PackagePath>
-      <Modified>2022-06-08T20:39:11.864</Modified>
+      <Modified>2022-06-08T20:39:11.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\JSE.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\JSE.json">
       <PackagePath>Exchanges\JSE.json</PackagePath>
-      <Modified>2022-06-08T20:39:13.364</Modified>
+      <Modified>2022-06-08T20:39:13.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\KAR.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\KAR.json">
       <PackagePath>Exchanges\KAR.json</PackagePath>
-      <Modified>2022-06-08T20:39:11.601</Modified>
+      <Modified>2022-06-08T20:39:11.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\KLSE.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\KLSE.json">
       <PackagePath>Exchanges\KLSE.json</PackagePath>
-      <Modified>2022-06-08T20:39:14.580</Modified>
+      <Modified>2022-06-08T20:39:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\KO.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\KO.json">
       <PackagePath>Exchanges\KO.json</PackagePath>
-      <Modified>2022-06-08T20:39:08.723</Modified>
+      <Modified>2022-06-08T20:39:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\KQ.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\KQ.json">
       <PackagePath>Exchanges\KQ.json</PackagePath>
-      <Modified>2022-06-08T20:39:09.039</Modified>
+      <Modified>2022-06-08T20:39:09.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\LIM.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\LIM.json">
       <PackagePath>Exchanges\LIM.json</PackagePath>
-      <Modified>2022-06-08T20:39:16.583</Modified>
+      <Modified>2022-06-08T20:39:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\LS.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\LS.json">
       <PackagePath>Exchanges\LS.json</PackagePath>
-      <Modified>2022-06-08T20:39:04.654</Modified>
+      <Modified>2022-06-08T20:39:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\LSE.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\LSE.json">
       <PackagePath>Exchanges\LSE.json</PackagePath>
-      <Modified>2022-06-08T20:38:57.597</Modified>
+      <Modified>2022-06-08T20:38:57.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\LU.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\LU.json">
       <PackagePath>Exchanges\LU.json</PackagePath>
-      <Modified>2022-06-08T20:39:02.137</Modified>
+      <Modified>2022-06-08T20:39:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\MC.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\MC.json">
       <PackagePath>Exchanges\MC.json</PackagePath>
-      <Modified>2022-06-08T20:39:04.895</Modified>
+      <Modified>2022-06-08T20:39:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\MI.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\MI.json">
       <PackagePath>Exchanges\MI.json</PackagePath>
-      <Modified>2022-06-08T20:39:03.122</Modified>
+      <Modified>2022-06-08T20:39:03.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\MU.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\MU.json">
       <PackagePath>Exchanges\MU.json</PackagePath>
-      <Modified>2022-06-08T20:38:58.966</Modified>
+      <Modified>2022-06-08T20:38:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\MX.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\MX.json">
       <PackagePath>Exchanges\MX.json</PackagePath>
-      <Modified>2022-06-08T20:39:15.561</Modified>
+      <Modified>2022-06-08T20:39:15.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\NEO.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\NEO.json">
       <PackagePath>Exchanges\NEO.json</PackagePath>
-      <Modified>2022-06-08T20:38:58.410</Modified>
+      <Modified>2022-06-08T20:38:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\NFN.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\NFN.json">
       <PackagePath>Exchanges\NFN.json</PackagePath>
-      <Modified>2022-06-08T20:39:07.073</Modified>
+      <Modified>2022-06-08T20:39:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\NSE.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\NSE.json">
       <PackagePath>Exchanges\NSE.json</PackagePath>
-      <Modified>2022-06-08T20:39:12.604</Modified>
+      <Modified>2022-06-08T20:39:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\OL.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\OL.json">
       <PackagePath>Exchanges\OL.json</PackagePath>
-      <Modified>2022-06-08T20:39:07.309</Modified>
+      <Modified>2022-06-08T20:39:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\PA.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\PA.json">
       <PackagePath>Exchanges\PA.json</PackagePath>
-      <Modified>2022-06-08T20:39:03.635</Modified>
+      <Modified>2022-06-08T20:39:03.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\PSE.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\PSE.json">
       <PackagePath>Exchanges\PSE.json</PackagePath>
-      <Modified>2022-06-08T20:39:09.772</Modified>
+      <Modified>2022-06-08T20:39:09.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\RG.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\RG.json">
       <PackagePath>Exchanges\RG.json</PackagePath>
-      <Modified>2022-06-08T20:39:06.390</Modified>
+      <Modified>2022-06-08T20:39:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\RO.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\RO.json">
       <PackagePath>Exchanges\RO.json</PackagePath>
-      <Modified>2022-06-08T20:39:14.813</Modified>
+      <Modified>2022-06-08T20:39:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\SA.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\SA.json">
       <PackagePath>Exchanges\SA.json</PackagePath>
-      <Modified>2022-06-08T20:39:15.320</Modified>
+      <Modified>2022-06-08T20:39:15.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\SG.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\SG.json">
       <PackagePath>Exchanges\SG.json</PackagePath>
-      <Modified>2022-06-08T20:39:10.022</Modified>
+      <Modified>2022-06-08T20:39:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\SHE.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\SHE.json">
       <PackagePath>Exchanges\SHE.json</PackagePath>
-      <Modified>2022-06-08T20:39:11.357</Modified>
+      <Modified>2022-06-08T20:39:11.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\SHG.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\SHG.json">
       <PackagePath>Exchanges\SHG.json</PackagePath>
-      <Modified>2022-06-08T20:39:11.060</Modified>
+      <Modified>2022-06-08T20:39:11.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\SN.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\SN.json">
       <PackagePath>Exchanges\SN.json</PackagePath>
-      <Modified>2022-06-08T20:39:13.853</Modified>
+      <Modified>2022-06-08T20:39:13.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\SR.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\SR.json">
       <PackagePath>Exchanges\SR.json</PackagePath>
-      <Modified>2022-06-08T20:39:12.845</Modified>
+      <Modified>2022-06-08T20:39:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\ST.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\ST.json">
       <PackagePath>Exchanges\ST.json</PackagePath>
-      <Modified>2022-06-08T20:39:07.593</Modified>
+      <Modified>2022-06-08T20:39:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\STU.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\STU.json">
       <PackagePath>Exchanges\STU.json</PackagePath>
-      <Modified>2022-06-08T20:39:00.687</Modified>
+      <Modified>2022-06-08T20:39:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\SW.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\SW.json">
       <PackagePath>Exchanges\SW.json</PackagePath>
-      <Modified>2022-06-08T20:39:05.145</Modified>
+      <Modified>2022-06-08T20:39:05.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\TA.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\TA.json">
       <PackagePath>Exchanges\TA.json</PackagePath>
-      <Modified>2022-06-08T20:39:07.878</Modified>
+      <Modified>2022-06-08T20:39:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\TL.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\TL.json">
       <PackagePath>Exchanges\TL.json</PackagePath>
-      <Modified>2022-06-08T20:39:05.655</Modified>
+      <Modified>2022-06-08T20:39:05.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\TO.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\TO.json">
       <PackagePath>Exchanges\TO.json</PackagePath>
-      <Modified>2022-06-08T20:38:57.909</Modified>
+      <Modified>2022-06-08T20:38:57.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\TW.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\TW.json">
       <PackagePath>Exchanges\TW.json</PackagePath>
-      <Modified>2022-06-08T20:39:16.334</Modified>
+      <Modified>2022-06-08T20:39:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\TWO.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\TWO.json">
       <PackagePath>Exchanges\TWO.json</PackagePath>
-      <Modified>2022-06-08T20:39:17.071</Modified>
+      <Modified>2022-06-08T20:39:17.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\US.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\US.json">
       <PackagePath>Exchanges\US.json</PackagePath>
-      <Modified>2022-06-08T20:38:57.069</Modified>
+      <Modified>2022-06-08T20:38:57.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\V.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\V.json">
       <PackagePath>Exchanges\V.json</PackagePath>
-      <Modified>2022-06-08T20:38:58.195</Modified>
+      <Modified>2022-06-08T20:38:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\VI.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\VI.json">
       <PackagePath>Exchanges\VI.json</PackagePath>
-      <Modified>2022-06-08T20:39:02.367</Modified>
+      <Modified>2022-06-08T20:39:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\VN.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\VN.json">
       <PackagePath>Exchanges\VN.json</PackagePath>
-      <Modified>2022-06-08T20:39:14.331</Modified>
+      <Modified>2022-06-08T20:39:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\VS.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\VS.json">
       <PackagePath>Exchanges\VS.json</PackagePath>
-      <Modified>2022-06-08T20:39:05.908</Modified>
+      <Modified>2022-06-08T20:39:05.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\VX.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\VX.json">
       <PackagePath>Exchanges\VX.json</PackagePath>
-      <Modified>2022-06-08T20:39:04.404</Modified>
+      <Modified>2022-06-08T20:39:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\WAR.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\WAR.json">
       <PackagePath>Exchanges\WAR.json</PackagePath>
-      <Modified>2022-06-08T20:39:09.523</Modified>
+      <Modified>2022-06-08T20:39:09.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\XETRA.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\XETRA.json">
       <PackagePath>Exchanges\XETRA.json</PackagePath>
-      <Modified>2022-06-08T20:38:59.414</Modified>
+      <Modified>2022-06-08T20:38:59.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\Exchanges\ZSE.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\Exchanges\ZSE.json">
       <PackagePath>Exchanges\ZSE.json</PackagePath>
-      <Modified>2022-06-08T20:39:16.026</Modified>
+      <Modified>2022-06-08T20:39:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\Resources\Raw\FOREX.json">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\Resources\Raw\FOREX.json">
       <PackagePath>FOREX.json</PackagePath>
-      <Modified>2022-06-08T20:39:17.332</Modified>
+      <Modified>2022-06-08T20:39:17.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.212</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.227</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.246</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.277</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.408</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2022-06-07T18:19:34.849</Modified>
+      <Modified>2022-06-07T18:19:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2022-06-07T18:19:34.850</Modified>
+      <Modified>2022-06-07T18:19:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2022-06-07T18:21:07.451</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.609</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.620</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.630</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.646</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.711</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.463</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.465</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.468</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.471</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.475</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.511</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.515</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.520</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.527</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.543</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.492</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.495</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.498</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.501</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.508</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.477</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.479</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.482</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.484</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.489</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.547</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.553</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.560</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.571</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.602</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.495</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.505</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.516</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.533</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\MAUI\Preload Data\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="D:\MAUI\MauiCoaching\Preload Data\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2022-06-07T18:21:07.575</Modified>
+      <Modified>2022-06-07T18:21:07.000</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
